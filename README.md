@@ -108,6 +108,8 @@ uvicorn api:app --reload
 - **Visualization**: Plotly, Matplotlib
 
 ---
+output:
+![App UI](<Screenshot 2026-04-27 114014-1.png>) ![app UI](<Screenshot 2026-04-27 113851-1.png>)
 
 ## 📝 License
 
